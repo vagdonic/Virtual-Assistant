@@ -7,13 +7,13 @@ This program talks to the wolframalpha API and the wikipedia API with a beautifu
 </p>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41104244/103456025-40ffec80-4d18-11eb-8150-bef7c41d8fb6.png">
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/41104244/103456025-40ffec80-4d18-11eb-8150-bef7c41d8fb6.png" width="100px">
 </p>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41104244/103456031-4f4e0880-4d18-11eb-9534-7b86e33eacb4.png">
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/41104244/103456031-4f4e0880-4d18-11eb-9534-7b86e33eacb4.png" width="100px">
 </p>
 
 
