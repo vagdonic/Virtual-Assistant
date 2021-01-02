@@ -1,7 +1,7 @@
 # Virtual-Assistant
 ## A Virtual Assistant using Python.
 
-## This program talks to the wolframalpha API and the wikipedia API with a beautiful and minimal GUI to get all your answers in one place.
+### This program talks to the wolframalpha API and the wikipedia API with a beautiful and minimal UI to get all your answers in one place.
 
 ### A beautiful and minimal UI.
 <p align="left">
