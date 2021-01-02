@@ -3,7 +3,7 @@
 
 This program talks to the wolframalpha API and the wikipedia API with a beautiful and minimal GUI to get all your answers in one place.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41104244/103456019-2e85b300-4d18-11eb-830d-fff25ac3c82c.png">
+  <img src="https://user-images.githubusercontent.com/41104244/103456066-b8358080-4d18-11eb-860b-f43c53231a9b.png">
 </p>
 
 
